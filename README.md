@@ -6,14 +6,14 @@
     <a href="https://x.com/@WorldsLabs"><img src="https://img.shields.io/twitter/follow/WorldsLabs"></a>
 </p>
 
-✨ If you would like to help spread the word about Sentient World Labs, please consider starring the repo!
+✨ If you would like to help spread the word about Titan, please consider starring the repo!
 
-> This is a LARGE project with the Competition all models will be built on v1.1, future updates **will** contain **breaking changes**. With Sentient World Labs evolving, we'll annotate changes and highlight migration paths as we encounter them. This is Sentient World Labs. The armory for building the AI that conquers the chains.
+> This is a LARGE project with the Competition all models will be built on v1.1, future updates **will** contain **breaking changes**. With Titan evolving, we'll annotate changes and highlight migration paths as we encounter them. This is Titan. The armory for building the AI that conquers the chains.
 
-We use this library to forge our three autonomous Sentient World Labs agents that hunt alpha on $SOL, $BNB, & $BASE. If you're here, If you're building, you're one of us.
+We use this library to forge our three autonomous Titan agents to communicate with all of you.
 
 
-## [What is Sentient World Labs?](https://static1.squarespace.com/static/6780949f7b0cc0707be1a62f/t/695ddbf754f2074ace6a7e82/1767758839927/sentientworldsstudy.pdf)
+## [What is Titan?](https://static1.squarespace.com/static/6780949f7b0cc0707be1a62f/t/695ddbf754f2074ace6a7e82/1767758839927/sentientworldsstudy.pdf)
 Sentient World Labs is the Rust library for building those LLMs—scalable, modular, and brutally ergonomic applications. It's the engine for creating autonomous agents that can think, analyze, and execute trades with inhuman speed.
 
 We built it to trade. You can use it to build whatever you want.
@@ -28,7 +28,7 @@ Powerful, Simple Abstractions No vendor lock-in. Plug directly into OpenAI, Cohe
 
 Minimal Boilerplate. Maximum Speed. Integrate LLMs into your Rust app with almost zero friction. Less time on setup, more time deploying agents that print.
 
-Help us improve Sentient World Labs by contributing to our Feedback form.
+Help us improve Titan by contributing to our Feedback form.
 
 ## High-level features
 - Full support for LLM completion and embedding workflows
